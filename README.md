@@ -1,4 +1,3 @@
-# HNGi7 Team Titans  Task 3
 
 **CONTENTS**
 - Home page
@@ -25,12 +24,5 @@ This is where you find all the recipes in different categories, ranging from foo
 **SAVED RECIPE**
 In the saved recipe page you can view all your saved recipes and use them from there, this saves you time of searching for them again.
 
-**BUILT WITH :**
-- Flutter
-- VERSION
-- Version 1.0.0
-- CONTRIBUTORS
-- Team titans HNGi7 
-- ACKNOWLEDGEMENT
-- Acknowledgement to everyone whose code was used.
+
 
